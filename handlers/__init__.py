@@ -1,0 +1,1 @@
+from handlers.tg_bot_main import bot_tg
