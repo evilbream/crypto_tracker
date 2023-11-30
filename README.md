@@ -67,10 +67,6 @@ def binance(res) -> dict|None:
 #### Screenshots
 Web interface: 
 ![Image alt](img/img.png)
-Database: 
-![Image alt](img/img_1.png)
-Telegram notifications: 
-![Image alt](img/img_2.png)
 
 #### Questions
 Any questions feel free to ask
