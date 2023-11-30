@@ -54,7 +54,7 @@ def binance(res) -> dict|None:
 4. Now  you can use the registered market as in the example folder
 5. The examples/run.py shows an example of using the program
    1. notification func - any function that accepts parameters in the following format: param1:list = [{name: '', price: '', seller: '', pair: ''}, ...] param2: float = price gap 
-   2. web - True or False - to activate web interface 
+   2. web - True or False - to activate web interface. Run from web_interface\\main_interface.html
    3. tg_notification - True or False - to receive notification in Telegram, when price gap is more than the gap 
    4. database_writer - True or False - to write data in database, when price gap is more than the gap. By default, data is saved in the sql\test.db.
    5. gap - price gap - when price gap between currency pairs on different markets is more than the value of the gap 
