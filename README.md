@@ -64,9 +64,6 @@ def binance(res) -> dict|None:
 1. Add the bot token to the utils/tg_const.py
 2. Set tg_notification to True
 
-#### Screenshots
-Web interface: 
-![Image alt](img/img.png)
 
 #### Questions
 Any questions feel free to ask
